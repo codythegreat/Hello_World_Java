@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld.src.HelloWorld",
+            "projectName": "Jave_code_fa339d76"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Jave_code_fa339d76"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello_world",
+            "request": "launch",
+            "mainClass": "hello_world",
+            "projectName": "Jave_code_fa339d76"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWord",
+            "request": "launch",
+            "mainClass": "HelloWord"
+        }
+    ]
+}
